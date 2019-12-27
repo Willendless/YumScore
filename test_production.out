@@ -1,0 +1,470 @@
+@@SQL_AUTO_IS_NULL
+0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+1536
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+17743	fbQaKW0Lte0JQ_opbnjdKg	Gadzooks Enchiladas & Soup	3313 N 7th St	Phoenix	AZ	85014	33.4872149418	-112.0647604613	4	811	8:0-22:0	8:0-22:0	8:0-15:0	8:0-22:0	8:0-22:0	8:0-22:0	8:0-20:0
+48948	-kIscN8I29eXMPkvyyxmRQ	Zookz Sandwiches	100 E Camelback Rd	Phoenix	AZ	85012	33.5095892938	-112.0718480453	4.5	775	7:0-16:0	7:0-16:0	7:0-16:0	7:0-16:0	7:0-16:0	8:0-16:0	8:0-16:0
+24866	vl1aHp6pvnSmpoRQShWLjg	Lucille's Smokehouse Bar-B-Que	11011 W Charleston Blvd	Las Vegas	NV	89135	36.1568053738	-115.3341114173	3.5	633	11:0-22:0	11:0-22:0	11:0-22:0	11:0-22:0	11:0-23:0	11:0-23:0	11:0-22:0
+66533	UOtoOybZ5vAB4aXBLc57vA	Bootleggers Modern American Smokehouse	7217 E 1st St	Scottsdale	AZ	85251	33.4922045	-111.9255493	4	628	11:0-22:0	11:0-22:0	11:0-22:0	11:0-22:0	11:0-23:0	11:0-23:0	11:0-22:0
+38368	8K3CRM4COa0SSBEvli0fJQ	Paymons Mediterranean Cafe & Hookah Lounge	8380 W Sahara Ave	Las Vegas	NV	89117	36.1448066	-115.2739885	3.5	522	0:0-0:0	11:0-1:0	11:0-1:0	11:0-1:0	11:0-1:0	11:0-1:0	11:0-16:0
+25515	2skQeu3C36VCiB653MIfrw	Bootleggers Modern American Smokehouse	3375 E Shea Blvd	Phoenix	AZ	85028	33.581757	-112.008454	4	521	11:0-22:0	11:0-22:0	11:0-22:0	11:0-22:0	11:0-22:0	11:0-22:0	11:0-22:0
+69869	mVomtOMgBxbGvdPSaF2HjQ	Urban Cookies Bake Shop	2325 N 7th St	Phoenix	AZ	85006	33.4741696	-112.0648051	4.5	507	8:0-18:0	8:0-18:0	8:0-19:0	8:0-19:0	8:0-19:0	8:0-18:0	8:0-16:0
+19607	Xny0n0s98TpP82sQxfgIMQ	Sokolowski's University Inn	1201 University Rd	Cleveland	OH	44113	41.4847881	-81.6900652	4.5	483	11:0-15:0	11:0-15:0	11:0-15:0	11:0-15:0	17:0-21:0	16:0-21:0	
+55287	oMtdUzMdo5W5qrldiOGROg	Sushi Brokers	17025 N Scottsdale Rd, Ste 190	Scottsdale	AZ	85255	33.6405179	-111.9245358	3.5	477	11:0-23:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-1:0	11:0-1:0	11:0-22:0
+47275	wSojc-y-d7MWiGWdy8deCg	Barque Smokehouse	299 Roncesvalles Avenue	Toronto	ON	M6R 2M3	43.6480097	-79.4496592	4	451	17:0-22:0	17:0-22:0	17:0-22:0	17:0-22:0	17:0-23:0	17:0-23:0	17:0-21:30
+__count
+9
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+15619	17743	My daughter loves this place!	outside	business_img/fBySFbLxvjTsY8Tu5SeREA.jpg
+__count
+26
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7635	48948		drink	business_img/Chvz64LdNyrtgHKX0I5Xgg.jpg
+__count
+23
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+12053	24866	The outside entrance.	outside	business_img/e96Cmskm8km3lot64hBy4g.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+11
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1237	38368	Paymon's West Sahara Dining Room	inside	business_img/4-BZJBmVoXvVqA07JMrZAQ.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+11
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+14677	19607		inside	business_img/_PrruHUpVJ1bVg3AiJt3WQ.jpg
+__count
+3
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+34855	55287	Sit down dinning	inside	business_img/-ckqMTRHZx8pbo-IdTU46A.jpg
+__count
+18
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3832	47275	Barque caesar with candied bacon	food	business_img/r_oLIFRyTEya0uOl2Osg2Q.jpg
+@@SQL_AUTO_IS_NULL
+0
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+11	l19990115jl	2019-06-15 11:14:51.010875	0	jjj				0	1	2019-06-09 20:48:06.043966
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:32:17.266879	0	1				0	1	2019-06-09 20:48:04.543715
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+198
+@@SQL_AUTO_IS_NULL
+0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+53
+@@SQL_AUTO_IS_NULL
+0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+53
+@@SQL_AUTO_IS_NULL
+0
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:32:17.266879	0	1				0	1	2019-06-09 20:48:04.543715
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2	2	Jenna	4XChL029mKr5hydo79Ljxg	33	2013-02-21 22:29:06.000000	3.63	4	48	22	16
+id	review_user_id_id	review_business_id_id	review_stars	review_text	review_date	review_useful_vote	review_funny_vote	review_cool_vote
+69071	2535	83951	3	Not as good as I had hoped.\nThe bread was pretty dry and chewy, I could have used some condiments (not a fan of their mayo based house sauce) or at least had their bread toasted.\nVery skimpy on the toppings, making it hard to eat so much bread.\nFood was ready quickly, prices fair and they had a good selection.\nGood if you are looking for an early bite or something affordable, yet not good enough to return again.	2018-10-19 03:29:26.000000	10	4	6
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2535	2535	Nijole	nmdkHL2JKFx55T3nq5VziA	7089	2011-11-29 15:50:53.000000	3.7	750	45394	23306	35978
+id	vote_user_id	vote_review_id	vote_option
+21	2	69071	2
+22	2	69071	0
+23	2	69071	0
+24	2	69071	0
+25	2	69071	0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+198
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:32:17.266879	0	1				0	1	2019-06-09 20:48:04.543715
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2	2	Jenna	4XChL029mKr5hydo79Ljxg	33	2013-02-21 22:29:06.000000	3.63	4	48	22	16
+id	review_user_id_id	review_business_id_id	review_stars	review_text	review_date	review_useful_vote	review_funny_vote	review_cool_vote
+69071	2535	83951	3	Not as good as I had hoped.\nThe bread was pretty dry and chewy, I could have used some condiments (not a fan of their mayo based house sauce) or at least had their bread toasted.\nVery skimpy on the toppings, making it hard to eat so much bread.\nFood was ready quickly, prices fair and they had a good selection.\nGood if you are looking for an early bite or something affordable, yet not good enough to return again.	2018-10-19 03:29:26.000000	11	3	6
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2535	2535	Nijole	nmdkHL2JKFx55T3nq5VziA	7089	2011-11-29 15:50:53.000000	3.7	750	45395	23305	35978
+id	vote_user_id	vote_review_id	vote_option
+21	2	69071	2
+22	2	69071	0
+23	2	69071	0
+24	2	69071	0
+25	2	69071	0
+26	2	69071	0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+198
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:32:17.266879	0	1				0	1	2019-06-09 20:48:04.543715
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2	2	Jenna	4XChL029mKr5hydo79Ljxg	33	2013-02-21 22:29:06.000000	3.63	4	48	22	16
+id	review_user_id_id	review_business_id_id	review_stars	review_text	review_date	review_useful_vote	review_funny_vote	review_cool_vote
+69071	2535	83951	3	Not as good as I had hoped.\nThe bread was pretty dry and chewy, I could have used some condiments (not a fan of their mayo based house sauce) or at least had their bread toasted.\nVery skimpy on the toppings, making it hard to eat so much bread.\nFood was ready quickly, prices fair and they had a good selection.\nGood if you are looking for an early bite or something affordable, yet not good enough to return again.	2018-10-19 03:29:26.000000	10	3	6
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2535	2535	Nijole	nmdkHL2JKFx55T3nq5VziA	7089	2011-11-29 15:50:53.000000	3.7	750	45394	23305	35978
+id	vote_user_id	vote_review_id	vote_option
+21	2	69071	2
+22	2	69071	0
+23	2	69071	0
+24	2	69071	0
+25	2	69071	0
+26	2	69071	0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+198
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+198
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:32:17.266879	0	1				0	1	2019-06-09 20:48:04.543715
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2	2	Jenna	4XChL029mKr5hydo79Ljxg	33	2013-02-21 22:29:06.000000	3.63	4	48	22	16
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+198
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+198
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+198
+__count
+104687
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+29615	iCQpiavjjPzJ5_3gPD5Ebg	Secret Pizza	3708 Las Vegas Blvd S, Level 3, The Boulevard Tower	Las Vegas	NV	89109	36.109837	-115.174212	4	4286	11:0-5:0	11:0-4:0	11:0-4:0	11:0-4:0	11:0-5:0	11:0-5:0	11:0-5:0
+1976	ujHiaprwCQ5ewziu0Vi9rw	The Buffet at Bellagio	3600 S Las Vegas Blvd	Las Vegas	NV	89109	36.11322	-115.17689	3.5	4227	7:0-22:0	7:0-22:0	7:0-22:0	7:0-22:0	7:0-22:0	7:0-22:0	7:0-22:0
+63011	rcaPajgKOJC2vo_l3xa42A	Bouchon	3355 Las Vegas Blvd S, Venezia Tower, 10th floor	Las Vegas	NV	89109	36.1209554593	-115.1698532494	4	3859	17:0-22:0	17:0-22:0	17:0-22:0	17:0-22:0	17:0-22:0	17:0-22:0	17:0-22:0
+47513	FaHADZARwnY4yvlvpnsfGA	McCarran International Airport	5757 Wayne Newton Blvd	Las Vegas	NV	89119	36.0850163303	-115.1510094693	3.5	3627	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+138
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3247	29615	Sausage, Ricotta and mushroom pizza.	food	business_img/ZT3AiU5KP2xY-mJsXmNZnQ.jpg
+__count
+137
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+147	1976		food	business_img/0lCYqAkv_GvuH-DYg9TnVQ.jpg
+__count
+194
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+69
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+37763	bFaFb7wu7swOp5qD8lNMog	Mian Sichuan Noodles	4355 Spring Mountain Rd, Ste 107	Las Vegas	NV	89102	36.1258775	-115.197855	4.5	355	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0
+102866	E_DXCeVllZtHV93hsAIZvw	Tacos Sahuaro	2320 N 32nd St	Phoenix	AZ	85008	33.4738447	-112.0131943	4.5	271	9:0-22:0	9:0-22:0	9:0-22:0	9:0-22:0	9:0-23:0	9:0-23:0	9:0-23:0
+91872	H94fBucKEuNKsjbSy7WODg	Little Szechuan	524 W University Dr	Tempe	AZ	85281	33.4222257	-111.9465202	3.5	236	0:0-0:0	17:0-21:0	17:0-21:0	17:0-21:0	17:0-21:0	17:0-21:0	17:0-21:0
+60421	taet5lzHXhUGGkPrWcfmsg	Qing Hua	1676 Avenue Lincoln	Montréal	QC	H3H 2T5	45.4952446	-73.5809599	3.5	194	12:0-22:0	12:0-22:0	12:0-22:0	12:0-22:0	12:0-22:0	12:0-22:0	12:0-22:0
+74049	ovApUucCKSb9k0lTP2JieQ	Huaraches Moroleon	805 Philo Rd	Urbana	IL	61801	40.1058258	-88.1951387	4.5	187	10:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:30	8:0-21:30	8:0-20:0
+77835	6G0w6rSvl964Lt8qumF3hA	Com Tam Thuan Kieu	66 S Dobson Rd, Ste 141	Mesa	AZ	85202	33.4133505	-111.8759922	4	141	9:0-20:30	9:0-20:30	9:0-20:30	9:0-20:30	9:0-20:30	9:0-20:30	9:0-20:30
+62450	DwmAsemahJywywhuqv5J1Q	Sichuan Gourmet	328 Atwood St	Pittsburgh	PA	15213	40.4389524203	-79.9551590459	4	138	11:0-21:0	11:0-21:0	11:0-21:0	11:0-21:0	11:0-22:0	11:0-22:0	12:0-21:0
+22038	k1q9f7aJ2TsoSbeA8Qm1aA	Lao Sze Chuan	4321 W Flamingo Rd	Las Vegas	NV	89103	36.114539	-115.195684	3	133	17:0-22:30	17:0-22:30	17:0-22:30	17:0-22:30	17:0-22:30	17:0-22:30	17:0-22:30
+35260	JRRduMZI2aU3UCjfNEQURA	Qing Hua Chinatown	1019 St Laurent Boulevard	Montréal	QC	H2Z 1J4	45.508143	-73.559573	3.5	119	12:0-22:0	12:0-22:0	12:0-22:0	12:0-22:0	12:0-22:0	12:0-22:0	12:0-22:0
+25860	IhM1UBvAMM5Fia4f_v1wdQ	El Nahual	1993 Keele Street	York	ON	M6M 3Y3	43.6907043	-79.4737446	4.5	93	0:0-0:0	17:0-21:0	11:30-18:0	17:0-21:0	11:30-20:0	13:0-21:0	
+__count
+18
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+61797	37763		food	business_img/yCU89alk8r4H7nuQgEcR8A.jpg
+__count
+1
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+98569	102866	BooM  Tacos  Money Shot!	food	business_img/TLfxkkFyI9mLV9-YKUkpQw.jpg
+__count
+56
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+27151	91872	Tsing Tao	inside	business_img/EutkyLyaDtD_qlpWVUSAUg.jpg
+__count
+23
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+9462	60421		food	business_img/HXcOGIKmJqT8SH_E2Uy4wg.jpg
+__count
+4
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+23741	74049	Huarache Loco!	food	business_img/OgZjAc4zKqC1q_DJwSBrLQ.jpg
+__count
+6
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+8755	77835	One of the best nem nuong cuon I've ever had. The egg noodle soup was good, but not spectacular.	food	business_img/kOmMppc-9H7xT6T5ndnLtA.jpg
+__count
+2
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+68362	62450		food	business_img/u__hUlfMVmUxD8umzzGEjw.jpg
+__count
+24
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+17823	22038	Bar	inside	business_img/D3g7eFxyosaXTLxhUa0-ng.jpg
+__count
+6
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+13464	35260	Sea urchin soup dumpling	food	business_img/Cm6axhjy63-wnYw5_KkBtQ.jpg
+__count
+3
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+57778	25860	Shrimp, chorizo and fish tacos	food	business_img/azaBRvZBHKNg3glnJiDPZQ.jpg
+@@SQL_AUTO_IS_NULL
+0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+37763	bFaFb7wu7swOp5qD8lNMog	Mian Sichuan Noodles	4355 Spring Mountain Rd, Ste 107	Las Vegas	NV	89102	36.1258775	-115.197855	4.5	355	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0
+__count
+5
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+37763	bFaFb7wu7swOp5qD8lNMog	Mian Sichuan Noodles	4355 Spring Mountain Rd, Ste 107	Las Vegas	NV	89102	36.1258775	-115.197855	4.5	355	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0	9:0-21:0
+__count
+18
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:32:17.266879	0	1				0	1	2019-06-09 20:48:04.543715
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2	2	Jenna	4XChL029mKr5hydo79Ljxg	33	2013-02-21 22:29:06.000000	3.63	4	48	22	16
+__count
+14
+id	review_user_id_id	review_business_id_id	review_stars	review_text	review_date	review_useful_vote	review_funny_vote	review_cool_vote
+76883	2	83951	5	这是一条测试评论lalalalal	2019-06-15 11:35:44.976706	0	0	0
+60794	2	78971	5	BEST HAPPY HOUR in town!!  This is my 5th Friday in a row here.  Every time I walk in the door I am greeted with a gorgeous staff and they treat me like I am royalty.\n\nI think I have had everything on the food menu but if I had to pick a favorite then I would say the tuna sliders are godly!!!  I don't think anybody in town makes a better Lemon Drop Martini and it's half off for happy hour too!!  \n\nI heard that they recently came under new ownership and I must say that the new owners are doing an awesome job.  I'll see you next Friday Beverly!!	2016-09-10 01:25:08.000000	0	0	2
+8611	2	7958	5	Thank you to the staff and Dr. Matchette for the wonderful vet service I received today. My 3 dogs ingested a large bar of chocolate this morning so I called Kaibab and they were able to see me immediately.  Dr. Matchette took great care in examining my dogs and explaining what she was doing. Luckily, my pups are OK and Dr Machette let me know what to watch for in the next 24 hours in case of any changes in my dogs behavior.  I appreciated the quick appointment time and friendly and helpful staff!	2015-06-03 18:33:46.000000	1	0	0
+37404	2	47617	5	Have rented from Prime Time Properties for 3+ years now and have never had a problem. Maintenance is responded to and paperwork has been sent to me when requested. No issues or complaints - staff is friendly!	2014-03-25 04:19:11.000000	4	0	0
+48136	2	60582	4	So far so good. Only been here one time and I got the chicken bowl. Was hot and fresh. I would return here again to try some more things. Service was friendly and my to go order came out pretty quick.  Oh and their chocolate chip cookies were delicious!	2014-02-12 20:16:53.000000	0	0	0
+10144	2	963	3	It's such a bummer that the service here is awful because the food is good. There were so many tables open but a 20 minute wait and a manager walking around looking lost along with 3 hostesses just standing around. Wait staff is nice but no sense of urgency and I even saw the cook walking out of the back with a tray of food while yelling at the waitresses "You complain it's slow but then you let the food sit here." Hopefully management steps up their game and trains the staff to provide better service. Good thing the food is good otherwise I'd go someplace else.	2013-11-11 18:21:08.000000	0	0	0
+26426	2	38305	5	LOVE this place. I literally crave their cheeseburgers all the time.  Staff is friendly and knowledgable on their many selections of beers. Lots of TV's all over with a giant patio that I havent yet had the pleasure to sit on because it is too hot.  Definitely try this place out!	2013-07-26 22:34:28.000000	1	0	0
+70250	2	88265	5	Always 5 stars. Great color, even application, excellent customer service, product doesn't dry out your skin and she is always available for appointments! Highly, highly recommend!	2013-06-14 05:55:02.000000	0	0	0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+78971	JvHv4HDT7sU7rMYyDzJuMQ	Beverly on Main	7018 E Main St	Scottdale	AZ	85251	33.4932189	-111.929765	4	169	16:0-0:0	16:0-0:0	16:0-0:0	16:0-0:0	16:0-2:0	16:0-2:0	16:0-0:0
+__count
+26
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+28784	78971		inside	business_img/trYdrEU2QzRhwt-E2ubyuA.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+7958	-LRlx2j9_LB3evsRRcC9MA	Kaibab Animal Hospital	3010 N 68th St	Scottsdale	AZ	85251	33.4821359	-111.935063	5	70	7:0-19:0	7:0-19:0	7:0-19:0	7:0-19:0	7:0-19:0	8:0-14:0	11:0-15:0
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+47617	17KRWBtZe0lZrR9N-QarUA	Prime Time Properties	1910 S Stapley Dr, Ste 221	Mesa	AZ	85204	33.380594	-111.809069	5	3	9:0-16:0	9:0-16:0	9:0-16:0	9:0-16:0	9:0-16:0		
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+60582	pshiKbFYbE2P5dkXa0FVgg	Croque Famous Sandwiches	13610 N Scottsdale Rd, Ste 25	Scottsdale	AZ	85254	33.6104324256	-111.9275330646	4	90	9:0-17:30	9:0-17:30	9:0-17:30	9:0-17:30	9:0-16:30	9:0-14:30	
+__count
+1
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+67956	60582		food	business_img/7vN4HoIKmMRXDuE_x8e0qA.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+963	9E1q2uEMd881wnruicNTUA	Buffalo Wild Wings	8870 E Indian Bend Rd	Scottsdale	AZ	85250	33.5385580506	-111.8908726255	3	133	11:0-0:0	11:0-0:0	11:0-0:0	11:0-0:0	11:0-1:0	11:0-1:0	11:0-0:0
+__count
+6
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+13282	963		food	business_img/eB9Ut5mDLXJAJbOZtSQkig.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+38305	xR1gLCH5resvtq1eV1nebg	Cold Beers & Cheeseburgers - Old Town	4222 North Scottsdale Rd	Scottsdale	AZ	85251	33.4975546	-111.9264977	3.5	721	10:0-0:0	11:0-0:0	11:0-0:0	11:0-0:0	11:0-1:0	10:0-1:0	10:0-0:0
+__count
+18
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+19428	38305	Phoenix Metro Auburn Club	outside	business_img/S17WoXWtLy7DgeEO0h-C_g.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+88265	Hfn5TFzr2qFtW5cl59tCyw	Maximum Airbrush Tan	11000 N Scottsdale Rd, Ste 235, Semone Rochlin's Office	Scottsdale	AZ	85254	33.5870100929	-111.9272813201	5	27	10:0-17:0	10:0-19:0	10:0-19:0	10:0-19:0	10:0-17:0	10:0-14:0	
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+198
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg

@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    height: 100%;
+}
+body {
+    background-color: #fff;
+    height: 100%;
+}
+.i-stars--large-5 {
+    width: 132px;
+    height: 24px;
+    background-position: 0 -216px;
+}
+.i-stars {
+    background: url(../image/stars.png) no-repeat;
+    background-size: 132px 560px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.offscreen {
+    clip: rect(0 0 0 0);
+    position: absolute;
+    left: -9999px;
+    top: auto;
+    overflow: hidden;
+    width: 1px;
+    height: 1px;
+}
+.rating, .rating-large, .rating-very-large {
+    position: relative;
+    overflow: hidden;
+}
+.biz-page-header .rating-info .biz-rating .rating-very-large {
+    margin-top: 0;
+}
+.biz-rating-very-large .rating-very-large {
+    float: left;
+    margin: -4px 6px 0 0;
+}
+.shortenough {
+    padding-top: 6px;
+    font-size: 36px;
+    line-height: 1.16667em;
+}
+.list-group-item {
+    height: 35px;
+}
+.col-center-block {
+    float: none;
+    display: block;
+    margin: auto;
+}
+h2 {
+    word-wrap: break-word !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    font-weight: bold;
+    margin-bottom: 6px;
+    font-size: 21px;
+    line-height: 1.28571em;
+    color: #d32323;
+}
+h3 {
+    word-wrap: break-word !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    font-weight: bold;
+    margin-bottom: 6px;
+    font-size: 16px;
+    line-height: 1.3125em;
+    color: #d32323;
+}
+.user-display-name {
+    font-size: 14px;
+    line-height: 1.28571em;
+    font-weight: bold;
+}
+.btn-list {
+    width: 80px;
+    height: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+btn {
+    padding: 0;
+}

@@ -1,0 +1,339 @@
+@@SQL_AUTO_IS_NULL
+0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+104687
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+29615	iCQpiavjjPzJ5_3gPD5Ebg	Secret Pizza	3708 Las Vegas Blvd S, Level 3, The Boulevard Tower	Las Vegas	NV	89109	36.109837	-115.174212	4	4286	11:0-5:0	11:0-4:0	11:0-4:0	11:0-4:0	11:0-5:0	11:0-5:0	11:0-5:0
+1976	ujHiaprwCQ5ewziu0Vi9rw	The Buffet at Bellagio	3600 S Las Vegas Blvd	Las Vegas	NV	89109	36.11322	-115.17689	3.5	4227	7:0-22:0	7:0-22:0	7:0-22:0	7:0-22:0	7:0-22:0	7:0-22:0	7:0-22:0
+63011	rcaPajgKOJC2vo_l3xa42A	Bouchon	3355 Las Vegas Blvd S, Venezia Tower, 10th floor	Las Vegas	NV	89109	36.1209554593	-115.1698532494	4	3859	17:0-22:0	17:0-22:0	17:0-22:0	17:0-22:0	17:0-22:0	17:0-22:0	17:0-22:0
+47513	FaHADZARwnY4yvlvpnsfGA	McCarran International Airport	5757 Wayne Newton Blvd	Las Vegas	NV	89119	36.0850163303	-115.1510094693	3.5	3627	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+138
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3247	29615	Sausage, Ricotta and mushroom pizza.	food	business_img/ZT3AiU5KP2xY-mJsXmNZnQ.jpg
+__count
+137
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+147	1976		food	business_img/0lCYqAkv_GvuH-DYg9TnVQ.jpg
+__count
+194
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+__count
+183
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+11	l19990115jl	2019-06-15 11:14:00.000000	0	10				0	1	2019-06-09 20:48:00.000000
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:43:38.857409	0	1				0	1	2019-06-09 20:48:04.543715
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:43:38.857409	0	1				0	1	2019-06-09 20:48:04.543715
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+323
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+35037	8jLZiv202Cfx_RbTuPOwxQ	Best Foot Spa	4124 S Rainbow Blvd	Las Vegas	NV	89103	36.1129893	-115.2418918	4	457	11:0-0:0	11:0-0:0	11:0-0:0	11:0-0:0	11:0-0:0	11:0-0:0	11:0-0:0
+1249	sZTxJMS0co1D1k8aZCukBg	Best Buy Henderson	611 Marks St	Henderson	NV	89014	36.064506	-115.0381757	2.5	211	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-20:0
+19045	xDMUoSI8yb7_FZlMqQGzkA	Best Buy Las Vegas	10950 W Charleston Blvd	Las Vegas	NV	89135	36.159763	-115.335682	2.5	182	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0
+21529	oF2XS1nvcjnntEl7g8NltA	Best Buy Las Vegas	2050 N Rainbow Blvd	Las Vegas	NV	89108	36.1964714	-115.2385212	2.5	153	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	11:0-20:0
+41445	bFJSR6yha6Mxc6ynjFUZhA	Best Deal In Town - Discount HDTVs	235 E Baseline Rd	Tempe	AZ	85283	33.3774986564	-111.9357223503	4.5	138	0:0-0:0	10:0-19:0	10:0-19:0	10:0-19:0	5:0-20:0	10:0-19:0	10:0-15:0
+95782	bDtsc7WTwEJZFuvjXy8wng	Bestellen	972 College Street	Toronto	ON	M6H 1A5	43.6535007	-79.427609	3.5	138		18:0-22:0	18:0-22:0	18:0-22:0	18:0-23:0	18:0-23:0	
+80909	ZbB_yG9cEda5_n3Q0zQL7Q	Best Buy Maryland Parkway	3820 S Maryland Pkwy	Las Vegas	NV	89119	36.1196875	-115.1355333	2.5	136	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-20:0
+775	BolK3j0LiGtxYxfRhGJFvA	Best Mattress	5095 S Fort Apache Rd	Las Vegas	NV	89148	36.096734	-115.297787	5	125	9:0-21:0	10:0-20:0	10:0-20:0	10:0-20:0	10:0-20:0	10:0-19:0	10:0-19:0
+37817	-xC1h0CMZgbW9z8cxwI6pw	Best Buy Tempe Marketplace	1900 E Rio Salado Pkwy, Ste 180	Tempe	AZ	85281	33.4300934	-111.9028773	2	122	10:0-22:0	10:0-22:0	10:0-22:0	10:0-22:0	10:0-22:0	10:0-22:0	10:0-20:0
+38879	0Hemgm6gwrO64fDEWEW4vg	Best Buy Centennial	6455 N Decatur Blvd	Las Vegas	NV	89131	36.2768457	-115.2090187	2.5	120	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-21:0	10:0-20:0
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+6
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+6553	95782	Striploin! Bravo!	food	business_img/pzztEzpN8VcYezZ2y6q1KA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+104687
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+18786	faPVqws-x-5k2CQKDNtHxw	Yardbird Southern Table & Bar	3355 Las Vegas Blvd S	Las Vegas	NV	89109	36.1223280185	-115.1701118428	4.49902152641879	3577	0:0-0:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-0:0	10:0-0:0	10:0-23:0
+2641	Wxxvi3LZbHNIDwJ-ZimtnA	The Venetian Las Vegas	3355 South Las Vegas Boulevard	Las Vegas	NV	89109	36.121189	-115.169657	4	3499	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+48571	XZbuPXdyA0ZtTu3AzqtQhg	Mesa Grill	3570 Las Vegas Blvd S	Las Vegas	NV	89109	36.1171245659	-115.174792707	4	3268	17:0-23:0	17:0-23:0	17:0-23:0	17:0-23:0	17:0-23:0	17:0-23:0	17:0-23:0
+6052	XXW_OFaYQkkGOGniujZFHg	The Peppermill Restaurant & Fireside Lounge	2985 Las Vegas Blvd S	Las Vegas	NV	89109	36.1336673317	-115.1630947555	4	3260	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+66425	RwMLuOkImBIqqYj4SSKSPg	Tacos El Gordo	3049 S Las Vegas Blvd	Las Vegas	NV	89109	36.1315942123	-115.1647668375	4	3243	10:0-2:0	10:0-2:0	10:0-2:0	10:0-2:0	10:0-4:0	10:0-4:0	10:0-2:0
+88785	YJ8ljUhLsz6CtT_2ORNFmg	Gordon Ramsay Pub & Grill	3570 Las Vegas Blvd S	Las Vegas	NV	89109	36.117417	-115.175757	3.5	3235	11:0-23:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-0:0	11:0-0:0	11:0-23:0
+14357	HhVmDybpU7L50Kb5A0jXTg	Guy Fieri's Vegas Kitchen & Bar	3535 S Las Vegas Blvd	Las Vegas	NV	89109	36.1180802326	-115.1724323608	3.5	3222	9:0-0:0	9:0-0:0	9:0-0:0	9:0-0:0	9:0-0:0	9:0-0:0	9:0-0:0
+83878	na4Th5DrNauOv-c43QQFvA	Bellagio Hotel	3600 S Las Vegas Blvd	Las Vegas	NV	89109	36.112629	-115.176706	3.5	3187	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+51115	P7pxQFqr7yBKMMI2J51udw	Holsteins	3708 Las Vegas Blvd S, Level 2, Boulevard Tower	Las Vegas	NV	89109	36.109842	-115.174603	4	3159	11:0-0:0	11:0-0:0	11:0-0:0	11:0-0:0	11:0-1:0	9:0-1:0	9:0-0:0
+19763	MpmFFw0GE_2iRFPdsRpJbA	XS Nightclub	3131 Las Vegas Blvd S	Las Vegas	NV	89109	36.1280503306	-115.1648685336	4	3055	22:0-4:0				22:0-4:0	22:0-4:0	21:0-4:0
+__count
+421
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+20235	18786	Chicken liver toast	food	business_img/gjxg1_t0FUVFJpiBjzZhFQ.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+142
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+12	48571		inside	business_img/EUEC3WQIlCHNGlbOW9wAOA.jpg
+__count
+92
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+61	6052		inside	business_img/pZmFV8mORpJIBbuoJ5NOVg.jpg
+__count
+90
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7314	66425		food	business_img/toe4q18jqMZmBsQkhxjWSA.jpg
+__count
+103
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+8110	88785	soft open date of Dec. 10.	inside	business_img/VxF48FCJ0K5Ilu-rjB8tKA.jpg
+__count
+82
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+14975	14357	Promotional opening.	inside	business_img/8XXQifylhEzSaSJh3ISATA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+__count
+135
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2820	51115	Duck Fat Fries	food	business_img/xSa_tvqdkY_9wTh_fpApBw.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+18786	faPVqws-x-5k2CQKDNtHxw	Yardbird Southern Table & Bar	3355 Las Vegas Blvd S	Las Vegas	NV	89109	36.1223280185	-115.1701118428	4.49902152641879	3577	0:0-0:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-0:0	10:0-0:0	10:0-23:0
+__count
+81
+@@SQL_AUTO_IS_NULL
+0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+18786	faPVqws-x-5k2CQKDNtHxw	Yardbird Southern Table & Bar	3355 Las Vegas Blvd S	Las Vegas	NV	89109	36.1223280185	-115.1701118428	4.49902152641879	3577	0:0-0:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-0:0	10:0-0:0	10:0-23:0
+__count
+421
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+18786	faPVqws-x-5k2CQKDNtHxw	Yardbird Southern Table & Bar	3355 Las Vegas Blvd S	Las Vegas	NV	89109	36.1223280185	-115.1701118428	4.49902152641879	3577	0:0-0:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-0:0	10:0-0:0	10:0-23:0
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:43:38.857409	0	1				0	1	2019-06-09 20:48:04.543715
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2	2	Jenna	4XChL029mKr5hydo79Ljxg	33	2013-02-21 22:29:06.000000	3.63	4	48	22	16
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+18786	faPVqws-x-5k2CQKDNtHxw	Yardbird Southern Table & Bar	3355 Las Vegas Blvd S	Las Vegas	NV	89109	36.1223280185	-115.1701118428	4.49902152641879	3577	0:0-0:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-0:0	10:0-0:0	10:0-23:0
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+18786	faPVqws-x-5k2CQKDNtHxw	Yardbird Southern Table & Bar	3355 Las Vegas Blvd S	Las Vegas	NV	89109	36.1223280185	-115.1701118428	4.49902152641879	3577	0:0-0:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-0:0	10:0-0:0	10:0-23:0
+__count
+82
+id	password	last_login	is_superuser	username	first_name	last_name	email	is_staff	is_active	date_joined
+2	pbkdf2_sha256$150000$Qgxv2ABEH0sP$PfAv+zeyW2FHP758E7I0CfiKbTu0aIT69mjwXPEC0EU=	2019-06-15 11:43:38.857409	0	1				0	1	2019-06-09 20:48:04.543715
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+2	2	Jenna	4XChL029mKr5hydo79Ljxg	33	2013-02-21 22:29:06.000000	3.63	4	48	22	16
+id	review_user_id_id	review_business_id_id	review_stars	review_text	review_date	review_useful_vote	review_funny_vote	review_cool_vote
+14769	3276	18786	3	Overhyped for sure. \n\nI was dining alone and decided to stop for lunch since I know they get crazy busy at night. The menus are mostly the same with a few sandwiches and a blue plate special for $15 (2 pc fried chicken).  Because I was alone I was gently encouraged to sit at the bar (sigh....) which is always a little disappointing. \n\nI had a small plate (2 biscuit sliders) and a glass of wine and it was around $40. That's insane - I know it's Vegas and all, but come on. Wine by the glass is pretty much in the $15 range as are most cocktails. I did appreciate that they let me mix my sliders - I had one fried chicken and one ham/cheddar. Both were good but not great, as the biscuits were maybe a little under baked and doughy. \n\nThat said the actual fried chicken was excellent so definitely go that route. I'm glad I tried it for sure, but I wouldn't rush back.	2018-10-07 16:25:07.000000	5	3	2
+id	user_id	user_name	user_identifier	user_review_count	user_date	user_average_stars	user_fans	user_useful_votes	user_funny_votes	user_cool_votes
+3276	3276	Joanna	PLOYtrCMUFPHQe2IbYAd5g	2429	2011-01-09 22:07:45.000000	3.63	164	9960	5669	6589
+id	vote_user_id	vote_review_id	vote_option
+28	2	14769	2
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+18786	faPVqws-x-5k2CQKDNtHxw	Yardbird Southern Table & Bar	3355 Las Vegas Blvd S	Las Vegas	NV	89109	36.1223280185	-115.1701118428	4.49902152641879	3577	0:0-0:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-0:0	10:0-0:0	10:0-23:0
+__count
+82
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+18786	faPVqws-x-5k2CQKDNtHxw	Yardbird Southern Table & Bar	3355 Las Vegas Blvd S	Las Vegas	NV	89109	36.1223280185	-115.1701118428	4.49902152641879	3577	0:0-0:0	11:0-23:0	11:0-23:0	11:0-23:0	11:0-0:0	10:0-0:0	10:0-23:0
+__count
+421
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+82251	4JNXUYY8wbaaDmk3BPzlWw	Mon Ami Gabi	3655 Las Vegas Blvd S	Las Vegas	NV	89109	36.112859	-115.172434	4	8348	7:0-23:0	7:0-23:0	7:0-23:0	7:0-23:0	7:0-0:0	7:0-0:0	7:0-23:0
+89207	RESDUcs7fIiihp38-d6_6g	Bacchanal Buffet	3570 S Las Vegas Blvd	Las Vegas	NV	89109	36.116113	-115.176222	4	8339	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	7:30-22:0	8:0-22:0	8:0-22:0
+35200	K7lWdNUhCbcnEvI0NhGewg	Wicked Spoon	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.10955	-115.176155	3.5	6708	8:0-21:0	8:0-21:0	8:0-21:0	8:0-21:0	8:0-22:0	8:0-22:0	8:0-21:0
+__count
+225
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1531	82251	The Rolling Wine Cart at Your Beckon Call	drink	business_img/Z7hbanCVPfp1bMuCAppUxA.jpg
+__count
+823
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+7313	89207		food	business_img/pB6qutwMYzwp7Lx_BWTNpA.jpg
+__count
+642
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+2954	35200		inside	business_img/OFtHMVRBklGqPEpmwmOn6Q.jpg
+id	business_id	business_name	business_address	business_city	business_state	business_postal_code	business_lat	business_long	business_stars	business_review_count	business_mon	business_tue	business_wed	business_thu	business_fri	business_sat	business_sun
+58853	f4x1YBxkLrZg652xt2KR5g	Hash House A Go Go	3535 Las Vegas Blvd	Las Vegas	NV	89109	36.1181806906	-115.1715797813	4	5763	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+83951	DkYS3arLOhA8si5uUEmHOw	Earl of Sandwich	3667 Las Vegas Blvd S	Las Vegas	NV	89109	36.109418	-115.1718738	4.50009850275808	5076	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+89438	5LNZ67Yw9RD6nf4_UhXOjw	The Cosmopolitan of Las Vegas	3708 Las Vegas Blvd S	Las Vegas	NV	89109	36.1097553	-115.1738769	4	4322	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0	0:0-0:0
+__count
+119
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1673	58853	Chicken & Waffles	food	business_img/MTOQIq40eExQwO_uYnBAiA.jpg
+__count
+53
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+3104	83951	Holiday Turkey Sandwich	food	business_img/87XbWNBk_0qHXF5MYX_NbA.jpg
+__count
+0
+id	photo_business_id_id	photo_caption	photo_label	photo_image
+1	63011		inside	business_img/MllA1nNpcp1kDteVg6OGUw.jpg

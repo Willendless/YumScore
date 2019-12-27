@@ -1,0 +1,94 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- 上述meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{% static 'scoringsystem/css/review.css' %}" rel="stylesheet"/>
+    <title>Write a Review</title>
+</head>
+<body>
+
+<div style="min-height: 100%; padding-bottom: 100px">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/scoringsystem/">YUMScore!</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/scoringsystem/search_all">business</a>
+                </li>
+            </ul>
+            {% if request.session.is_login %}
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/accounts/{{ request.session.id }}/update">ProfileUpdate</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/scoringsystem/{{ request.session.id }}/user">HomePage</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/accounts/logout">Log Out</a>
+                    </li>
+                </ul>
+            {% else %}
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/accounts/login">Log In</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/accounts/register">Sign Up</a>
+                    </li>
+                </ul>
+            {% endif %}
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="header mt-4">
+            <h2><a href="/scoringsystem/{{ business.id }}/business" style="color: #0073bb; font-size: 36px">{{ business.business_name }}</a></h2>
+        </div>
+        <form method="post" action="/scoringsystem/{{ business.id }}/review_post">
+            {% csrf_token %}
+            <div class="mt-4" style="border: 1px solid #ccc;border-radius: 4px;cursor: text;padding: 18px;max-width: 630px;">
+                <div class="mb-2">
+                    <select class="custom-select" name="review_stars">
+                        <option selected>Select your rating</option>
+                        <option value="1">One</option>
+                        <option value="2">Two</option>
+                        <option value="3">Three</option>
+                        <option value="4">Four</option>
+                        <option value="5">Five</option>
+                    </select>
+                </div>
+                <textarea name="review_text" class="review_input__369bf__1o94S px-1" maxlength="5000" placeholder="Your review helps others learn about great local businesses.
+
+Please don't review this business if you received a freebie for writing this review, or if you're connected in any way to the owner or employees."></textarea>
+            </div>
+            <div class="mt-4">
+                <button type="submit" class="btn btn-danger" style="width: 200px; font-size: 17px;line-height: 2em;font-weight: 700">Post Review</button>
+            </div>
+        </form>
+    </div>
+
+
+</div>
+
+    <footer style="margin-top: -100px; height: 100px; text-align: center; border-top: 1px solid #ccc; width: 100%; background-color: #f5f5f5">
+        <img class="d-block mx-auto" src="{% static 'scoringsystem/image/bottom-icon.png' %}" style="width: 500px">
+        <span>made by 李嘉睿</span>
+    </footer>
+
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+    <script src="https://cdn.bootcss.com/popper.js/1.15.0/umd/popper.js"></script>
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
